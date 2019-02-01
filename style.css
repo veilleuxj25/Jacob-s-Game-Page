@@ -1,0 +1,13 @@
+.jumbotron{
+    color:white;
+     font-family: "Times New Roman", Times, serif;
+     font-style:italic;
+    background-image: url("https://jooinn.com/images/abstract-background-279.jpg");
+}
+body{
+    background-color:FireBrick;
+    color:white;
+}
+input{
+    color: black;
+}
